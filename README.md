@@ -1,1 +1,1 @@
-# Spellchecker-Ponctuation-Recifier
+This project was realised by me and another student,it has been programmed with C, and runs with Command line, it consist in finding errors in a text  given in a file "text.txt" and proposing candidates for each wrong word by referring to the dictionary "dict.txt".Also it correct Ponctuations errors automatically 
